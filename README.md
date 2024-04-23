@@ -1,6 +1,6 @@
 ### Add watermark to pictures in specified folder batchly
 
-[中文 ZH-CN](readme/README_zh.md)
+[中文 ZH-CN](readme/README.ZH_CN.md)
 
 Function: You can batch add watermarks to pictures in specified folders (including subfolders) and set the **position**, **size** and **transparency** of the watermarks to meet various needs.
 The storage structure of the pictures after adding watermark is the same as the original folder.
