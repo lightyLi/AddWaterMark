@@ -1,9 +1,12 @@
-### Add watermark to pictures in specified folder batchly
+### Add watermark to pictures in specified folder batchly without quality loss
 
 [中文 ZH-CN](readme/README.ZH_CN.md)
 
 Function: You can batch add watermarks to pictures in specified folders (including subfolders) and set the **position**, **size** and **transparency** of the watermarks to meet various needs.
 The storage structure of the pictures after adding watermark is the same as the original folder.
+
+**The code can add a watermark to the image losslessly**, the size and resolution of the image after adding the watermark are almost unchanged. You can easily add watermarks to the PSed pictures to be shared.
+
 Required dependencies: PILLOW
 
 ```
